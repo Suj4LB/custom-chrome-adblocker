@@ -65,6 +65,14 @@ const blockingRules = [
         "action": { "type": "block" },
         "condition": { "urlFilter": "*://*.leetcode.com/*", "resourceTypes": ["script", "image", "xmlhttprequest"] }
     }
+    
+    // Add your own URLs to block here - 
+    // {
+    //     "id": serial_id_number,
+    //     "priority": 1,
+    //     "action": { "type": "block" },
+    //     "condition": { "urlFilter": "*://*.your_url/*", "resourceTypes": ["script", "image", "xmlhttprequest"] }
+    // }
 ];
 
 chrome.declarativeNetRequest.updateDynamicRules(
