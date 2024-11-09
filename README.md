@@ -24,7 +24,7 @@ chrome://extensions
 
 6. Select the cloned project repository and enable it.
 
-# Customisation Instructions
+# Customization Instructions
 
 In the background.js file, reach to the commented code - 
 ```bash
