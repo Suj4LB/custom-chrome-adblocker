@@ -1,6 +1,6 @@
 # Project Setup Instructions
 
-Here’s a simple guide to set up this extension for your chrome and also customise it according to your need.
+A simple guide to set up this extension for your chrome and also customize it according to your need.
 
 1. First, clone the repository to your local machine:
 
