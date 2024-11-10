@@ -1,6 +1,6 @@
 # Project Setup Instructions
 
-A simple guide to set up this extension for your chrome and also customize it according to your need.
+A simple guide to use this extension for your chrome and how to customize it according to your need.
 
 1. First, clone the repository to your local machine:
 
@@ -18,7 +18,7 @@ cd <project-directory>
 ```bash
 chrome://extensions
 ```
-4. Make sure to turn the developer mode on on the top right hand corner.
+4. Make sure to enable the developer mode on the top right hand corner.
 
 5. Click on Load Unpacked button on the top left hand side of your screen.
 
