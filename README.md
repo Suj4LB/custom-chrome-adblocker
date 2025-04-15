@@ -6,12 +6,12 @@ A simple guide to use this extension for your chrome and how to customize it acc
 
 ```bash
 
-git clone <repository-url>
+git clone https://github.com/Suj4LB/custom-chrome-adblocker.git
 ```
 2. Navigate to the Project Directory
 
 ```bash
-cd <project-directory>
+cd custom-chrome-adblocker
 ```
 3. Open Google Chrome and type the url -
 
